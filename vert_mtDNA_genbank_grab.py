@@ -18,7 +18,7 @@ from Bio.Seq import Seq
 
 # Features set by user
 
-genbank_file_to_use = '/Users/corydunn/Dropbox/Lab/Current_Lab_Members/CDUNN/University_of_Helsinki/CDD_Mammal_Selection_JAN_25_2021/Mammals_JAN_25_2021_and_A_punctatus.gb'
+genbank_file_to_use = 'Mammals_JAN_25_2021_and_A_punctatus.gb'
 file_prefix = 'mammal_and_Ap_mtDNA_PYTEST_FEB_21_'
 chosen_genes_set = {'ND1','ND2','COX1','COX2','ATP8','ATP6','COX3','ND3','ND4L','ND4','ND5','ND6','CYTB'} # vertebrates
 

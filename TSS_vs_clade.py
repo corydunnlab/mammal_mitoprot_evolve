@@ -14,7 +14,7 @@ import numpy as np
 
 # Load total substitution table
 
-total_fluctuation_table = pd.read_csv('/Users/corydunn/Dropbox/Lab/Current_Lab_Members/CDUNN/University_of_Helsinki/CDD_Mammal_Selection_JAN_25_2021/python_testing_ground/mammal_and_Ap_mtDNA_PYTEST_FEB_21_TSS_fluctuation_table_all_proteins.csv')
+total_fluctuation_table = pd.read_csv('mammal_and_Ap_mtDNA_PYTEST_FEB_21_TSS_fluctuation_table_all_proteins.csv')
 
 # Break down total substitution table by TSS limit
 
