@@ -1,6 +1,6 @@
 # mammal_mitoprot_evolve
 
-Associated with the following study: 
+Scripts associated with the following study: 
 
 A novel approach to the detection of unusual mitochondrial protein change suggests low basal metabolism of ancestral anthropoids
 
